@@ -32,4 +32,4 @@ A RESTful CRUD API built with Spring Boot, Spring Data JPA, and MySQL for managi
 4. Test endpoints using Postman at `http://localhost:8080/students`
 
 ## Author
-Mohd Nahar
+Mohammed Naharpura Wala
